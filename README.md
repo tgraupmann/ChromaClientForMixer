@@ -6,7 +6,8 @@ Broadcast Chroma lighting from a Mixer game client
 * [See Also](#see-also)
 * [Releases](#releases)
 * [Dependencies](#dependencies)
-* [Overview](#Overview)
+* [Overview](#overview)
+* [FAQ](#faq)
 
 ## See Also
 
