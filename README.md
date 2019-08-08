@@ -37,9 +37,9 @@ Broadcast Chroma lighting from a Mixer game client
 
 ## Dependencies
 
-* [Razer Synapse](https://www.razerzone.com/synapse) - Control `Chroma` application priority
+* [Razer Synapse 3](https://www.razer.com/synapse-3) - Control `Chroma` application priority
 
-* [Razer Chroma SDK](http://developer.razerzone.com/works-with-chroma/download/) - Allow applications to control `Chroma` lighting. The `ChromaSDK` is automatically installed by `Synapse` when a `Chroma` device is connected.
+* [Razer Chroma SDK](http://developer.razerzone.com/works-with-chroma/download/) - Allow applications to control `Chroma` lighting. The `ChromaSDK` is automatically installed by [Synapse](https://www.razer.com/synapse-3) when a `Chroma` device is connected.
 
 ## Overview
 
@@ -85,13 +85,13 @@ When the `Broadcast on Mixer` checkbox is checked, Chroma will broadcast to `Mix
 
 * What if broadcast is on, but viewers aren't seeing lighting data?
 
-1. Make sure Synapse is installed and logged in.
+1. Make sure [Synapse](https://www.razer.com/synapse-3) is installed and logged in.
 
 2. Connect a Chroma-enabled device.
 
-3. Synapse will show an update and install the drivers for the device.
+3. [Synapse](https://www.razer.com/synapse-3) will show an update and install the drivers for the device.
 
-4. Make sure the Synapse Connect Module is installed.
+4. Make sure the [Synapse](https://www.razer.com/synapse-3) Connect Module is installed.
 
 ![image_7](images/image_7.png)
 
