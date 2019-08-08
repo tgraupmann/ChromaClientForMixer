@@ -7,7 +7,7 @@ Broadcast Chroma lighting from a Mixer game client
 * [Releases](#releases)
 * [Dependencies](#dependencies)
 * [Overview](#overview)
-* [FAQ](#faq)
+* [Frequently Asked Questions (FAQ)](#faq)
 
 ## See Also
 
@@ -109,8 +109,10 @@ When the `Broadcast on Mixer` checkbox is checked, Chroma will broadcast to `Mix
 
 ![image_8](images/image_8.png)
 
-3. Reinstall the Chroma Connect Module.
+3. If the `Razer Chroma SDK Server or Service` can't be started then stop both and try to start again. Try a reboot.
+
+4. If there's still an issue, reinstall the Chroma Connect Module in [Synapse](https://www.razer.com/synapse-3).
 
 ![image_9](images/image_9.png)
 
-4. The REST API should work and refresh the Mixer channel to see Chroma lighting.
+5. The REST API should work and refresh the Mixer channel to see Chroma lighting.
