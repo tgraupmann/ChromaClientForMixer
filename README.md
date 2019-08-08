@@ -37,9 +37,11 @@ Broadcast Chroma lighting from a Mixer game client
 
 ## Dependencies
 
-* [Razer Synapse 3](https://www.razer.com/synapse-3) - Control `Chroma` application priority
+* [Razer Synapse 3](https://www.razer.com/synapse-3) should be installed and logged in.
 
-* [Razer Chroma SDK](http://developer.razerzone.com/works-with-chroma/download/) - Allow applications to control `Chroma` lighting. The `ChromaSDK` is automatically installed by [Synapse](https://www.razer.com/synapse-3) when a `Chroma` device is connected.
+* The `Chroma Connect module` within [Synapse](https://www.razer.com/synapse-3) should be installed.
+
+![image_7](images/image_7.png)
 
 ## Overview
 
@@ -66,6 +68,10 @@ Click the `Authorize Mixer` button to allow the game client to broadcast to `Mix
 The `APPROVE` button will authorize the game client.
 
 ![image_3](images/image_3.png)
+
+You can verify or remove the authorization in your `Mixer` account settings in the `OAUTH APPS` tab.
+
+![image_10](images/image_10.png)
 
 When the `Broadcast on Mixer` checkbox is checked, Chroma will broadcast to `Mixer`. The checkbox can be checked at any time. Broadcast is intended to be enabled simultaneously with other software like `OBS`.
 
