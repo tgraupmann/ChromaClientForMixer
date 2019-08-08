@@ -79,3 +79,31 @@ When the `Broadcast on Mixer` checkbox is checked, Chroma will broadcast to `Mix
 * The `device` icons will toggle display of the virtual device grids.
 
 ![image_6](images/image_6.png)
+
+## FAQ ##
+
+* What if broadcast is on, but viewers aren't seeing lighting data?
+
+1. Make sure Synapse is installed and logged in.
+
+2. Connect a Chroma-enabled device.
+
+3. Synapse will show an update and install the drivers for the device.
+
+4. Make sure the Synapse Connect Module is installed.
+
+![image_7](images/image_7.png)
+
+* What if the viewer isn't seeing Chroma lighting?
+
+1. Check that the REST API is responding. https://chromasdk.io:54236/razer/chromasdk
+
+2. Make sure the Razer Chroma SDK Server and Service are running.
+
+![image_8](images/image_8.png)
+
+3. Reinstall the Chroma Connect Module.
+
+![image_9](images/image_9.png)
+
+4. The REST API should work and refresh the Mixer channel to see Chroma lighting.
