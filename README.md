@@ -101,6 +101,10 @@ When the `Broadcast on Mixer` checkbox is checked, Chroma will broadcast to `Mix
 
 ![image_7](images/image_7.png)
 
+5. Viewers should have `Chroma REST API Client for Mixer` at the top of the `Synapse Connect App List`. This will ensure that `Mixer` has the `Chroma` focus above any other `Chroma` apps that might be running at the same time.
+
+![image_11](images/image_11.png)
+
 * What if the viewer isn't seeing Chroma lighting?
 
 1. Check that the REST API is responding. https://chromasdk.io:54236/razer/chromasdk
