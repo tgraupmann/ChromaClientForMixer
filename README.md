@@ -77,13 +77,15 @@ When the `Broadcast on Mixer` checkbox is checked, Chroma will broadcast to `Mix
 
 ![image_1](images/image_1.png)
 
-**Custom Widget**
+**Custom Widgets**
 
 * The `Chroma` circle is a draggable widget that can be placed anywhere on top of the live video.
 
-* The `eye` will toggle visibility for the group of virtual `Chroma` devices.
+* The `eye` will toggle visibility for the virtual `Chroma` device toggles.
 
-* The `device` icons will toggle display of the virtual device grids.
+* Each `Chroma` device is draggable and resizable.
+
+* Hold `shift` while resizing to maintain aspect ratio.
 
 ![image_6](images/image_6.png)
 
