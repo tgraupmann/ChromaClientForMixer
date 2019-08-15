@@ -47,6 +47,17 @@ Broadcast Chroma lighting from a Mixer game client
 
 The `Mixer` game client broadcasts Chroma lighting for viewers of your live stream. The game client also displays an interactive Chroma widget in your live stream.
 
+
+**Chroma Client for Mixer Setup 0.1.5**
+
+<a target="_blank" href="https://www.youtube.com/watch?v=C_F707rHlO4"><img src="https://img.youtube.com/vi/C_F707rHlO4/0.jpg"/></a>
+
+
+**Chroma Client for Mixer Update 0.1.1**
+
+<a target="_blank" href="https://www.youtube.com/watch?v=5FDDv0XqjrM"><img src="https://img.youtube.com/vi/5FDDv0XqjrM/0.jpg"/></a>
+
+
 **Installer**
 
 First install the `ChromaClientForMixer` found in the [Releases](#releases) section.
