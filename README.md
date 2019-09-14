@@ -55,6 +55,8 @@ The `Mixer` game client broadcasts Chroma lighting for viewers of your live stre
 
 * The viewer just needs to install Synapse and the Connect module within Synapse to see Chroma on the `viewers` hardware.
 
+* The streamer may need to run the application as `Administrator` if a device doesn't broadcast its `Chroma` lighting.
+
 </td></tr></table>
 
 
